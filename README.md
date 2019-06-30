@@ -1,5 +1,7 @@
 # FrontendTest
 
+URL `https://teb0ho.github.io/osiristradingza-solution/frontend-test/`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
 ## Development server
